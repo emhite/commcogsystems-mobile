@@ -843,14 +843,14 @@ margin: 30px;}
 
 @media screen and (max-width:1200px) {
 	.left {
-	width:100%;
+	width:95%;
 	margin:30px 40px 30px 30px;
 	flex:100%;
 	}
 	
 	.right {
-	width:100%;
-	margin:30px;
+	width:95%;
+	margin:30px 40px 30px 30px;
 	flex:100%;
 	}
 	
